@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmetArmt
 - 👀 I’m interested in Android Programming
-- 🌱 I’m currently learning Kotlin , Java and Adnroid Studio
+- 🌱 I’m currently learning Kotlin, Java and Adnroid Studio
 - 📫 that is my contact email ( contact.ahmetarmt@gmail.com ) 
 
 <!---
